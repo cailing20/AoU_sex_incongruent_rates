@@ -10,7 +10,7 @@ The manuscript associated with this repository is under review in the Journal of
 - `AoU_sex_specific_condition_incongruence_rate_JAMIA_manuscript.ipynb`: R script for statistical analysis and visualization to reproduce findings in the JAMIA manuscript.
 
 ## Data Access
-The data used in this study is part of the controlled tier of the All of Us Research Program and requires appropriate access permissions. For access, follow the guidelines provided [here](https://www.researchallofus.org/data-tools/workbench/).
+The data used in this study is part of the controlled tier of the All of Us Research Program and requires appropriate access permissions. For access, follow the guidelines provided [here](https://www.researchallofus.org/data-tools/workbench/). To reproduce the results, this code needs to be run on the All of Us Researcher Workbench.
 
 ## Contact
 For any queries related to the code or the research, please contact:
